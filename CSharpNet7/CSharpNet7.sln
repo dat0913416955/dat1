@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwitchForWhile", "SwitchFor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefOutRegexTryParse", "RefOutRegexTryParse\RefOutRegexTryParse.csproj", "{9F4C38D0-3E39-4063-91EB-16E0DD8A8473}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartialClass", "PartialClass\PartialClass.csproj", "{FB230C6F-194E-4614-8215-D65DBB97155F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{9F4C38D0-3E39-4063-91EB-16E0DD8A8473}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F4C38D0-3E39-4063-91EB-16E0DD8A8473}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F4C38D0-3E39-4063-91EB-16E0DD8A8473}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB230C6F-194E-4614-8215-D65DBB97155F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB230C6F-194E-4614-8215-D65DBB97155F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB230C6F-194E-4614-8215-D65DBB97155F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB230C6F-194E-4614-8215-D65DBB97155F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
