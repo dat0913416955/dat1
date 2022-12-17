@@ -31,10 +31,10 @@ bool? flag = null;
 //}
 
 //?: => ternary operator
-Console.WriteLine(name != null ? true : false);
+//Console.WriteLine(name != null ? true : false);
 // is not  (!=)
 // is (==)
-Console.WriteLine(name is not null ? true : false);
+//Console.WriteLine(name is not null ? true : false);
 
 //int age = 10;
 //if (age is 10)
@@ -59,4 +59,21 @@ else
 //??=> null coalescring operator
 //?? tương tự dấu == ,nếu cái gì đó bằng null thì lấy cái vế sau
 
-int? chieudai = name?.Length ?? 10;
+//int? chieudai = name?.Length ?? 10;
+//Console.WriteLine(chieudai);
+List<int> numbers = null;
+int? m = null;
+int? n = null;
+
+ 
+(numbers ??= new List<int>()).Add(7);
+
+Console.WriteLine(string.Join(" ", numbers));  // output: 5 7
+
+numbers.Add(m ??= 0);
+Console.WriteLine(string.Join(" ", numbers));  // output: 5 7 0
+numbers.Add(n ??= 4);
+Console.WriteLine(string.Join(" ", numbers)); // output: 5 7 0 4
+
+Console.WriteLine(m);// output: 0
+Console.WriteLine(n);// output: 4

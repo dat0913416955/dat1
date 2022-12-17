@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuestionMark", "QuestionMark\QuestionMark.csproj", "{44BAE47F-51F0-4E01-B81B-FEEEE637AD6C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuestionMark", "QuestionMark\QuestionMark.csproj", "{44BAE47F-51F0-4E01-B81B-FEEEE637AD6C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwitchForWhile", "SwitchForWhile\SwitchForWhile.csproj", "{B04B7886-187F-4972-9CBE-3EC70ADF2C4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefOutRegexTryParse", "RefOutRegexTryParse\RefOutRegexTryParse.csproj", "{9F4C38D0-3E39-4063-91EB-16E0DD8A8473}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{44BAE47F-51F0-4E01-B81B-FEEEE637AD6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{44BAE47F-51F0-4E01-B81B-FEEEE637AD6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{44BAE47F-51F0-4E01-B81B-FEEEE637AD6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B04B7886-187F-4972-9CBE-3EC70ADF2C4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B04B7886-187F-4972-9CBE-3EC70ADF2C4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B04B7886-187F-4972-9CBE-3EC70ADF2C4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B04B7886-187F-4972-9CBE-3EC70ADF2C4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F4C38D0-3E39-4063-91EB-16E0DD8A8473}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F4C38D0-3E39-4063-91EB-16E0DD8A8473}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F4C38D0-3E39-4063-91EB-16E0DD8A8473}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F4C38D0-3E39-4063-91EB-16E0DD8A8473}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
