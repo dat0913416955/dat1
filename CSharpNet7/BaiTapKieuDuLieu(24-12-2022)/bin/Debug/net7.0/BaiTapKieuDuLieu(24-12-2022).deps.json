@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "BaiTapKieuDuLieu(24-12-2022)/1.0.0": {
+        "runtime": {
+          "BaiTapKieuDuLieu(24-12-2022).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BaiTapKieuDuLieu(24-12-2022)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

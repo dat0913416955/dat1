@@ -1,0 +1,15 @@
+C:\Users\nguye\source\repos\dat1\CSharpNet7\BaiTapKieuDuLieu(24-12-2022)\bin\Debug\net7.0\BaiTapKieuDuLieu(24-12-2022).exe
+C:\Users\nguye\source\repos\dat1\CSharpNet7\BaiTapKieuDuLieu(24-12-2022)\bin\Debug\net7.0\BaiTapKieuDuLieu(24-12-2022).deps.json
+C:\Users\nguye\source\repos\dat1\CSharpNet7\BaiTapKieuDuLieu(24-12-2022)\bin\Debug\net7.0\BaiTapKieuDuLieu(24-12-2022).runtimeconfig.json
+C:\Users\nguye\source\repos\dat1\CSharpNet7\BaiTapKieuDuLieu(24-12-2022)\bin\Debug\net7.0\BaiTapKieuDuLieu(24-12-2022).dll
+C:\Users\nguye\source\repos\dat1\CSharpNet7\BaiTapKieuDuLieu(24-12-2022)\bin\Debug\net7.0\BaiTapKieuDuLieu(24-12-2022).pdb
+C:\Users\nguye\source\repos\dat1\CSharpNet7\BaiTapKieuDuLieu(24-12-2022)\obj\Debug\net7.0\BaiTapKieuDuLieu(24-12-2022).csproj.AssemblyReference.cache
+C:\Users\nguye\source\repos\dat1\CSharpNet7\BaiTapKieuDuLieu(24-12-2022)\obj\Debug\net7.0\BaiTapKieuDuLieu(24-12-2022).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\source\repos\dat1\CSharpNet7\BaiTapKieuDuLieu(24-12-2022)\obj\Debug\net7.0\BaiTapKieuDuLieu(24-12-2022).AssemblyInfoInputs.cache
+C:\Users\nguye\source\repos\dat1\CSharpNet7\BaiTapKieuDuLieu(24-12-2022)\obj\Debug\net7.0\BaiTapKieuDuLieu(24-12-2022).AssemblyInfo.cs
+C:\Users\nguye\source\repos\dat1\CSharpNet7\BaiTapKieuDuLieu(24-12-2022)\obj\Debug\net7.0\BaiTapKieuDuLieu(24-12-2022).csproj.CoreCompileInputs.cache
+C:\Users\nguye\source\repos\dat1\CSharpNet7\BaiTapKieuDuLieu(24-12-2022)\obj\Debug\net7.0\BaiTapKieuDuLieu(24-12-2022).dll
+C:\Users\nguye\source\repos\dat1\CSharpNet7\BaiTapKieuDuLieu(24-12-2022)\obj\Debug\net7.0\refint\BaiTapKieuDuLieu(24-12-2022).dll
+C:\Users\nguye\source\repos\dat1\CSharpNet7\BaiTapKieuDuLieu(24-12-2022)\obj\Debug\net7.0\BaiTapKieuDuLieu(24-12-2022).pdb
+C:\Users\nguye\source\repos\dat1\CSharpNet7\BaiTapKieuDuLieu(24-12-2022)\obj\Debug\net7.0\BaiTapKieuDuLieu(24-12-2022).genruntimeconfig.cache
+C:\Users\nguye\source\repos\dat1\CSharpNet7\BaiTapKieuDuLieu(24-12-2022)\obj\Debug\net7.0\ref\BaiTapKieuDuLieu(24-12-2022).dll

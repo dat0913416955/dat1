@@ -1,0 +1,15 @@
+C:\Users\nguye\source\repos\dat1\CSharpNet7\Test\bin\Debug\net7.0\TestAppendLine.exe
+C:\Users\nguye\source\repos\dat1\CSharpNet7\Test\bin\Debug\net7.0\TestAppendLine.deps.json
+C:\Users\nguye\source\repos\dat1\CSharpNet7\Test\bin\Debug\net7.0\TestAppendLine.runtimeconfig.json
+C:\Users\nguye\source\repos\dat1\CSharpNet7\Test\bin\Debug\net7.0\TestAppendLine.dll
+C:\Users\nguye\source\repos\dat1\CSharpNet7\Test\bin\Debug\net7.0\TestAppendLine.pdb
+C:\Users\nguye\source\repos\dat1\CSharpNet7\Test\obj\Debug\net7.0\TestAppendLine.csproj.AssemblyReference.cache
+C:\Users\nguye\source\repos\dat1\CSharpNet7\Test\obj\Debug\net7.0\TestAppendLine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\source\repos\dat1\CSharpNet7\Test\obj\Debug\net7.0\TestAppendLine.AssemblyInfoInputs.cache
+C:\Users\nguye\source\repos\dat1\CSharpNet7\Test\obj\Debug\net7.0\TestAppendLine.AssemblyInfo.cs
+C:\Users\nguye\source\repos\dat1\CSharpNet7\Test\obj\Debug\net7.0\TestAppendLine.csproj.CoreCompileInputs.cache
+C:\Users\nguye\source\repos\dat1\CSharpNet7\Test\obj\Debug\net7.0\TestAppendLine.dll
+C:\Users\nguye\source\repos\dat1\CSharpNet7\Test\obj\Debug\net7.0\refint\TestAppendLine.dll
+C:\Users\nguye\source\repos\dat1\CSharpNet7\Test\obj\Debug\net7.0\TestAppendLine.pdb
+C:\Users\nguye\source\repos\dat1\CSharpNet7\Test\obj\Debug\net7.0\TestAppendLine.genruntimeconfig.cache
+C:\Users\nguye\source\repos\dat1\CSharpNet7\Test\obj\Debug\net7.0\ref\TestAppendLine.dll
